@@ -93,15 +93,19 @@ Kali Linux is a Debian-based Linux distribution designed for security auditing, 
 
 ## Post-Installation Setup
 1.	Adjust the screen resolution in the display settings.
-![Screenshot 2024-12-06 162503](https://github.com/user-attachments/assets/004fe410-cdea-4279-853d-b036bab5c81f)
+	
+	![Screenshot 2024-12-06 162503](https://github.com/user-attachments/assets/004fe410-cdea-4279-853d-b036bab5c81f)
+
 2.	Open a terminal and run the following commands to update and upgrade the system: 
 
-```
-sudo apt update  
-sudo apt upgrade
-```
+	```
+	sudo apt update  
+	sudo apt upgrade
+	```
 
-![Screenshot 2024-12-06 162759](https://github.com/user-attachments/assets/57da5a28-967b-447d-8d40-770f077a62b3)
+
+
+ 	 ![Screenshot 2024-12-06 162759](https://github.com/user-attachments/assets/57da5a28-967b-447d-8d40-770f077a62b3)
 
 
 Kali Linux is now ready for use in cybersecurity learning and penetration testing.
