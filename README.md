@@ -14,7 +14,8 @@ Kali Linux is a Debian-based Linux distribution designed for security auditing, 
 #### Install VirtualBox:
 
 1. Search for "VirtualBox" in a browser.
-![image](https://github.com/user-attachments/assets/d4ca8276-fb25-4ff8-80af-8d72facf174e)
+   
+	![image](https://github.com/user-attachments/assets/d4ca8276-fb25-4ff8-80af-8d72facf174e)
 
 
 2. Download and install VirtualBox by following the provided instructions.	
@@ -31,10 +32,11 @@ Kali Linux is a Debian-based Linux distribution designed for security auditing, 
 ## 3. Installing Kali Linux
 ### Step 1: Create a Virtual Machine
 1. Open VirtualBox and select Machine > New.
-![image](https://github.com/user-attachments/assets/f0edb50e-51bf-4b11-bc89-2a5bd135dd57)
 
-2. Specify the name of the virtual machine and input the Kali Linux installer ISO file.
-![Screenshot 2024-12-04 185247](https://github.com/user-attachments/assets/de9fc41e-3e8b-4955-a287-6d9e695731fd)
+	![image](https://github.com/user-attachments/assets/f0edb50e-51bf-4b11-bc89-2a5bd135dd57)
+
+3. Specify the name of the virtual machine and input the Kali Linux installer ISO file.
+![image](https://github.com/user-attachments/assets/9efd353a-8554-4b3a-804b-05f1209a70ec)
 
 ### Step 2: Configure the Virtual Machine
 
@@ -46,13 +48,13 @@ Kali Linux is a Debian-based Linux distribution designed for security auditing, 
 ![image](https://github.com/user-attachments/assets/9189beea-1829-4efd-a766-79d37e32dde8)
 
 4. Set both **Shared Clipboard and Drag’n’Drop** to bidirectional.
-![Screenshot 2024-12-06 155935](https://github.com/user-attachments/assets/1039df7d-2721-4df3-929b-0416e9a9b9c8)
+![image](https://github.com/user-attachments/assets/2e377a4e-6ff5-48e2-99fe-725eabb52c32)
 
 5. **Maximize** video memory.
 ![image](https://github.com/user-attachments/assets/a189c08b-611e-488c-9d66-b41b6a1c4217)
 
 6. Check the **ISO file** under the storage settings.
-![Screenshot 2024-12-06 160023](https://github.com/user-attachments/assets/1ebe9431-145b-4923-be9f-4ce03fcb4898)
+![image](https://github.com/user-attachments/assets/990e6afd-369d-4f6c-9bb8-3d476ac87474)
 
 7. Configure the network adapter to **NAT or Bridged Adapter** for host-system interaction.  
 ![image](https://github.com/user-attachments/assets/f69b54ea-d9e3-4e42-a99e-d046a1c17618)
