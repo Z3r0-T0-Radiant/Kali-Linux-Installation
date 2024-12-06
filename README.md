@@ -34,7 +34,7 @@ Kali Linux is a Debian-based Linux distribution designed for security auditing, 
 ![image](https://github.com/user-attachments/assets/f0edb50e-51bf-4b11-bc89-2a5bd135dd57)
 
 2. Specify the name of the virtual machine and input the Kali Linux installer ISO file.
-![image](https://github.com/user-attachments/assets/2810c30f-608c-4404-9f17-7a26adc40157)
+![Screenshot 2024-12-04 185247](https://github.com/user-attachments/assets/de9fc41e-3e8b-4955-a287-6d9e695731fd)
 
 ### Step 2: Configure the Virtual Machine
 
@@ -46,13 +46,13 @@ Kali Linux is a Debian-based Linux distribution designed for security auditing, 
 ![image](https://github.com/user-attachments/assets/9189beea-1829-4efd-a766-79d37e32dde8)
 
 4. Set both **Shared Clipboard and Drag’n’Drop** to bidirectional.
-![image](https://github.com/user-attachments/assets/619624cb-8222-418a-a4b0-ca66a19a887e)
+![Screenshot 2024-12-06 155935](https://github.com/user-attachments/assets/1039df7d-2721-4df3-929b-0416e9a9b9c8)
 
 5. **Maximize** video memory.
 ![image](https://github.com/user-attachments/assets/a189c08b-611e-488c-9d66-b41b6a1c4217)
 
 6. Check the **ISO file** under the storage settings.
-![image](https://github.com/user-attachments/assets/af6b73de-3684-4307-910b-954af689529c)
+![Screenshot 2024-12-06 160023](https://github.com/user-attachments/assets/1ebe9431-145b-4923-be9f-4ce03fcb4898)
 
 7. Configure the network adapter to **NAT or Bridged Adapter** for host-system interaction.  
 ![image](https://github.com/user-attachments/assets/f69b54ea-d9e3-4e42-a99e-d046a1c17618)
